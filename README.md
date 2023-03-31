@@ -1,4 +1,4 @@
-inf stats
+--inf stats
 local whitlist1 = {
 	"1tsJustgp",
 	"Peppo_x",
