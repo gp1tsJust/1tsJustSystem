@@ -5,5 +5,6 @@ local whitlist1 = {
 	"llBanishll",
 	"poltrona1905",
 	"matt3823893489254",
-	"PlatinumD3sir3"
+	"PlatinumD3sir3",
+	"Zetrxn"
 }
